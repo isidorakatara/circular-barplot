@@ -1,0 +1,14 @@
+# Original/private data
+*.xlsx
+*.xls
+data/private/
+
+# Generated figures
+output/*.png
+output/*.pdf
+
+# R/RStudio session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
